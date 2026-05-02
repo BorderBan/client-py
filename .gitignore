@@ -1,0 +1,15 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+env/
+
+# Настройки IDE (например, VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Файлы ОС
+.DS_Store
